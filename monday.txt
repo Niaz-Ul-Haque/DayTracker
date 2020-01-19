@@ -1,0 +1,8 @@
+T175,SComputer Starting,P,
+T200,P,E,P,
+T4534,A,SUser logging in,P,
+T4800,E,SChrome Starts,
+T4809,A,E,SChecking Emails,P,
+T5000,E,SChecks SocialMedia,A,
+T32464,SBrowser closed,A,P,
+T63213,SUser Goes to sleep,A,P,
